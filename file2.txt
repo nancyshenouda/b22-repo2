@@ -1,1 +1,4 @@
-file2.txt
++yay you made first commit is almost like taking a picture of the changes at certain momen compared to previous moment
+
+it contain the change you made and the author of the changes
+
