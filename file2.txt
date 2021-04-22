@@ -2,3 +2,5 @@
 
 it contain the change you made and the author of the changes
 
+this is the content. new changes to both files on one shot
+
